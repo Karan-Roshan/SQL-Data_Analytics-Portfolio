@@ -1,0 +1,55 @@
+Pizza Hut SQL Case Study – Key Business Findings
+
+Basic Analysis
+1. Total Orders Placed
+- Determined the total number of customer orders processed during the analysis period to understand overall business activity.
+
+2. Total Revenue Generated
+- Calculated the total revenue earned from pizza sales, providing an overview of the company's overall sales performance.
+
+3. Highest-Priced Pizza
+- Identified the premium-priced pizza available on the menu to understand the highest-value product offering.
+
+4. Most Common Pizza Size Ordered
+- Analyzed customer purchasing behavior to determine the most frequently ordered pizza size.
+
+5. Top 5 Most Ordered Pizza Types
+- Identified the five best-selling pizza types based on total order quantity to highlight customer favorites.
+
+
+Intermediate Analysis
+6. Category-wise Quantity Ordered
+- Calculated the total quantity sold for each pizza category (Classic, Chicken, Supreme, Veggie) to identify the most popular product category.
+
+7. Order Distribution by Hour
+- Examined order patterns throughout the day to identify peak business hours and customer purchasing trends.
+
+8. Category-wise Pizza Distribution
+- Analyzed the distribution of pizza offerings across different categories to understand the product portfolio.
+
+9. Average Pizzas Ordered Per Day
+- Grouped orders by date and calculated the average daily pizza sales to evaluate daily business performance.
+
+10. Top 3 Pizza Types by Revenue
+- Identified the three highest revenue-generating pizza types to understand which products contribute most to sales.
+
+
+Advanced Analysis
+11. Revenue Contribution by Pizza Type
+- Calculated the percentage contribution of each pizza type to total revenue to identify the most profitable products.
+
+12. Cumulative Revenue Analysis
+- Performed cumulative revenue analysis over time to visualize overall business growth and revenue trends.
+
+13. Top 3 Revenue-Generating Pizzas Within Each Category
+- Ranked the top three pizza types by revenue within each category, enabling comparison of best-performing products across categories.
+
+
+Overall Business Insights
+- Identified overall sales performance through total orders and revenue.
+- Discovered customer preferences by analyzing pizza sizes, categories, and best-selling pizza types.
+- Determined peak ordering hours to support workforce planning and operational efficiency.
+- Evaluated category-wise sales performance for better inventory and menu management.
+- Identified the highest revenue-generating pizzas to support pricing and marketing strategies.
+- Measured each pizza type's contribution to overall revenue to prioritize high-performing products.
+- Analyzed cumulative revenue trends to monitor business growth over time.
